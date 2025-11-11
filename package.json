@@ -1,0 +1,19 @@
+{
+  "name": "FinantfitXatom",
+  "version": "1.0.0",
+  "description": "xAtom starter project",
+  "private": false,
+  "scripts": {
+    "start": "xatom dev",
+    "build": "xatom build"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/jquery": "^3.5.32",
+    "@xatom/build-tool": "1.0.5",
+    "@xatom/core": "1.0.12",
+    "gsap": "^3.13.0",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {}
+}
